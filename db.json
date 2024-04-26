@@ -1,0 +1,25 @@
+{
+  "peliculas": [
+    {
+      "id": 1;
+      "name": "Harry Potter and the Philosopher's Stone",
+      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg",
+      "duration": "152 minutes",
+      "genre": "fantasy",
+    },
+    {
+      "id": 2;
+      "name": "Harry Potter and the Chamber of Secrets",
+      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Harry_Potter_and_the_Chamber_of_Secrets_movie.jpg/220px-Harry_Potter_and_the_Chamber_of_Secrets_movie.jpg",
+      "duration": "161 minutes",
+      "genre": "fantasy",
+    },
+    {
+      "id": 3;
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Prisoner_of_azkaban_UK_poster.jpg/220px-Prisoner_of_azkaban_UK_poster.jpg",
+      "duration": "142 minutes",
+      "genre": "fantasy",
+    }
+  ]
+}
